@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CFC</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_home">home</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="descrip">
+       Indo World Social Society in Nagpur is a non-governmental organization (NGO) that is dedicated to empowering individuals and communities in Nagpur, a city in the Indian state of Maharashtra. The organization aims to promote education, healthcare, economic development, and environmental sustainability in the region.
+
+One of the primary areas of focus for Indo Leaders in Nagpur is education. The organization provides scholarships and educational programs for underprivileged children in the region, as well as training and development opportunities for educators. Indo Leaders also partners with local schools and universities to promote access to quality education for all.
+
+In addition to education, Indo World in Nagpur is committed to improving healthcare outcomes for people in the region. The organization works to provide access to healthcare services in underserved communities, as well as promoting health education and disease prevention initiatives.
+
+Indo World in Nagpur also recognizes the importance of economic development in improving the lives of people in the region. The organization provides support and resources for small business owners and entrepreneurs, with a focus on empowering women and marginalized groups. Indo Leaders in Nagpur also promotes financial literacy and offers microfinance opportunities to help individuals start and grow their businesses.
+    </string>
+    <string name="title_activity_profilebtn">Profilebtn</string>
+    <string name="title_activity_map_final">Map_Final</string>
+    <string name="text1">verification by goverment entity :</string>
+</resources>
